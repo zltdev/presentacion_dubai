@@ -1,0 +1,14 @@
+# Material de trabajo local — NO se publica en el repo
+# (las imagenes ya van incrustadas dentro de index.html)
+
+/Fotos/
+/Logo meli/
+/links.docx
+/.claude/
+
+# Copia local de la pagina (la oficial es index.html)
+/ZLT-web_4.html
+
+# Brochures fuente — en el repo solo van condo-funes.pdf y plazas-usa.pdf
+/Brochures/Brochure*.pdf
+/Brochures/Plazas USA*.pdf
